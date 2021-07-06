@@ -1,4 +1,4 @@
 # LnT_MiniProject
 |Build|Unit Test|cppcheck|Valgrind|Coverage|
 |:--:|:--:|:--:|:--:|:--:|
-|[![cppcheck-action](https://github.com/vamsi1999/Mini-project/actions/workflows/cppcheck.ymlg)](https://github.com/vamsi1999/Mini-project/actions/workflows/cppcheck.yml)|
+|[![C/C++ CI](https://github.com/Aranshu/Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/Aranshu/Project/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/Aranshu/Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Aranshu/Project/actions/workflows/unit-test.yml)|[![cppcheck-action](https://github.com/Aranshu/Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aranshu/Project/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/Aranshu/Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Aranshu/Project/actions/workflows/Valgrind.yml)|[![CI-Coverage](https://github.com/Aranshu/Project/actions/workflows/gcov.yml/badge.svg)](https://github.com/Aranshu/Project/actions/workflows/gcov.yml)|
