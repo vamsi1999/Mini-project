@@ -1,1 +1,1 @@
-# Mini-project
+# LnT_MiniProject
