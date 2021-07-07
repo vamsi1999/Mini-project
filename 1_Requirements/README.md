@@ -1,9 +1,9 @@
 # Requirements
 ## Introduction
-* The growth in business also lead to the growth in the need of E-billing applications where all the information regarding the customer transanctions in that departmental store can be maintained online.
+* The growth in business also lead to the growth in the need of E-billing applications using Virtual Wallets where all the information regarding the customer transanctions in that departmental store can be maintained online.
 * Cutomer Billing System is a console based application where a customer can create and maintain an account. This account contains all the information of the customer and also the account can be edited as and when required.
 
-## Customer Billing System Features
+## Customer Virtual Wallet System Features
 
 The main aim of Customer Billing System is to maintain the information and payment history of the customer.It has the capacity to illustrate and analyze the basic billing system and the main functionalities that surround the billing system from a business prospective and explains how each interacts to complete the billing cycle.
 It capable of billing more quickly, accurately and update customer record and enables customer to view bill information.
@@ -29,7 +29,7 @@ Each customer in the system has an account balance, which affects any invoices r
 ## System Definition
 
 ### Integration
-The Customer Billing System interacts with :
+The Customer Virtual Wallet System interacts with :
   * Banking applications
   * Firewalls
   * Authentication gateways
@@ -41,6 +41,7 @@ The Customer Billing System interacts with :
 * To update the existing account
 * To print information of all the customers
 * To search for an account
+* Adding Amount to Existing Customer's Wallet
 
 ## SWOT Analysis
 ![](SWOT.png)
@@ -73,4 +74,4 @@ The Customer Billing System interacts with :
 |LR05| The home delivery option cane be implemented by taking the address of the customer|HR06|FUTURE|
 |LR06| The data can be protected by using file to store all the data|HR07|FUTURE|
 |LR07| The authentication mechanisms have to be implementd to prevent data leakage|HR08|FUTURE|
-|LR08| All the transactionc can be maintained in a file dedicated to that customer|HR08|FUTURE|
+|LR08| All the transactions can be maintained in a file dedicated to that customer|HR08|FUTURE|
