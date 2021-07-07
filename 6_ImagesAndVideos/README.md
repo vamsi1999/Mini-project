@@ -1,14 +1,14 @@
-# Creating account for a customer
-![](option-1.jpg)
+# Creating account for a New Customer
+![](output1.png)
 
-# Printing the information of a particular customer
-![](option-2.jpg)
+# Printing the information of a existing customer
+![](output2.png)
 
-# Paying the bill
-![](option-3.jpg)
+# Pay the Bills
+![](output3.png)
 
 # Printing the information of all customers
-![](option-4.jpg)
+![](output4.png)
 
 # Adding balance to the customer's E-Wallet
-![](option-5.jpg)
+![](output5.png)
