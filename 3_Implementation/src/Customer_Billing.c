@@ -19,7 +19,8 @@ Date: 4th-july-2021.
 int cust_count = 0,act_no = 0, id = 10001;
 int i = 0;
 char ch, decision;
-void main(){
+void main()
+{
     
 	    printf("<<<-----------------*-------------------->>>\n1: Add New Customer Wallet.\n");
 	    printf("2: Search Existing Customer Account.\n");
@@ -72,7 +73,8 @@ void main(){
     }
       return;
  }
-    int createAccount(int ind){
+    int createAccount(int ind)
+    {
           customer[ind].acct_no = id++;
           printf("\nEnter the name of the customer:- ");
           scanf("%s", customer[ind].name);
@@ -84,7 +86,8 @@ void main(){
           scanf("%f", &customer[ind].balance);
           return customer[ind].acct_no;
       }
-      void searchACustomer(int act_no){
+      void searchACustomer(int act_no)
+      {
           for(int i = 0; i < cust_count; i++){
               if(customer[i].acct_no == act_no){
                   printf("Customer ID is:- %d\n", customer[i].acct_no);
@@ -96,7 +99,8 @@ void main(){
           }
           return;
       }
-      void payBill(int act_no){
+      void payBill(int act_no)
+      {
           float amount = 0;
           printf("Enter the bill amount to Pay:- ");
           scanf("%f", &amount);
@@ -113,7 +117,8 @@ void main(){
           }
           return;
       }
-      void addBalance(int act_no){
+      void addBalance(int act_no)
+      {
           float amount = 0;
           printf("Enter the amount to add for your Wallet:- ");
           scanf("%f", &amount);
@@ -126,7 +131,8 @@ void main(){
           return;
       }
       void printAllCustomers() {
-          for (int i = 0; i < cust_count ; i++ ){
+          for (int i = 0; i < cust_count ; i++ )
+          {
               printf("CUSTOMER-- %d\n", (i+1));
               printf("\t Customer ID:- %d\n", customer[i].acct_no);
               printf("\t customer name:- %s\n", customer[i].name);
