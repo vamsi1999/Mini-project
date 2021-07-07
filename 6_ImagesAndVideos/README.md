@@ -4,7 +4,7 @@
 # Printing the information of a existing customer
 ![](output2.png)
 
-# Pay the Bills
+# Paying the Bills
 ![](output3.png)
 
 # Printing the information of all customers
