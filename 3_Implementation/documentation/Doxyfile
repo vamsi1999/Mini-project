@@ -1,6 +1,6 @@
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = Customer_Virtual_Wallet
-PROJECT_BRIEF          = The application is used to maintain the information of customers of a departmental store and helping go cashless and making use of Digital payments during paying Bills.
+PROJECT_BRIEF          = The application is used to maintain the information of customers of a all the Merchant stores and helping go cashless and making use of Digital payments during paying Bills.
 OUTPUT_DIRECTORY       = .
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
