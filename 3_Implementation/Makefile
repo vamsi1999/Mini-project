@@ -1,15 +1,15 @@
 
 # Name of the project
-PROJECT_NAME = Customer_Billing
+PROJECT_NAME = Customer_Virtual_Wallet
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = src/Customer_Billing.c
+SRC = src/main.c
 
 # All test source files
-TEST_SRC = src/Customer_Billing.c\
+TEST_SRC = src/main.c\
 test/test_customer_billing.c\
 unity/unity.c\
 
