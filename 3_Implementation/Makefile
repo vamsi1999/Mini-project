@@ -4,11 +4,6 @@ PROJECT_NAME = Customer_Virtual_Wallet
 
 # Output directory
 BUILD = build
-
-#Target
-target : main.c
-     gcc main.c -o all.out
-
 # All source code files
 SRC = src/main.c
 
