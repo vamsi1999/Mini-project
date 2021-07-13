@@ -6,5 +6,6 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 
 |Code Quality|Contribution-Check|CppCheck-Action|C-Build|
 |:--:|:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/deb31f22406441f7a7763d1a118e92ad)](https://app.codacy.com/gh/vamsi1999/Mini-project?utm_source=github.com&utm_medium=referral&utm_content=vamsi1999/Mini-project&utm_campaign=Badge_Grade_Settings)
 [![Code Quality Score](https://www.code-inspector.com/project/24711/status/svg)](https://frontend.code-inspector.com/public/project/24711/Mini-project/dashboard)|[![Contribution check](https://github.com/vamsi1999/Mini-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vamsi1999/Mini-project/actions/workflows/gitinspector.yml)|[![cppcheck-action](https://github.com/vamsi1999/Mini-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vamsi1999/Mini-project/actions/workflows/cppcheck.yml)|[![C Build Status](https://github.com/vamsi1999/Mini-project/actions/workflows/cbuild.yml/badge.svg)](https://github.com/vamsi1999/Mini-project/actions/workflows/cbuild.yml)|
  
