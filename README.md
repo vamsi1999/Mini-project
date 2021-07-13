@@ -1,6 +1,6 @@
 # Customer's Virtual Wallet 
 
-This Project Customer Virtual Wallet is an application designed to generate the bill to the customer which can be used in any departmental store, shops, cafes etc. You can use this application to keep the records such as name, address, mobile number, paid amount, due amount, payment data etc. of your regular customer. As well as we can add new customers in the record.
+The main aim of this Project Customer Virtual Wallet is an application which is designed to generate the bills to the customer which can be used in any departmental store, shops, cafes etc. You can use this application to keep the records such as name, address, mobile number, paid amount, due amount, payment data etc. of your regular customer. As well as we can add new customers in the record.
 ![image1](https://user-images.githubusercontent.com/49841421/124639696-17cc3e80-deaa-11eb-80c3-316a04bddb62.jpeg)
 
 
